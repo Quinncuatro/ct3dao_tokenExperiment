@@ -1,7 +1,7 @@
 {
-  "name": "Token20",
+  "name": "Token0",
   "symbol": "",
-  "image": "20.png",
+  "image": "0.png",
   "collection": {
     "name": "CT3 Experiment Tokens Season #1",
     "family": "CT3 Experiment Tokens"
@@ -9,13 +9,13 @@
   "properties": {
     "files": [
       {
-        "uri": "20.png",
+        "uri": "0.png",
         "type": "image/png"
       }
     ],
     "creators": [
       {
-        "address": "GMpGTgg8NMKp4oyCy7bFodCFWQydcKiX7TzAbt94nu81",
+        "address": "Dyqy4iGJykmTq8Y6MUmAUeFQkSkYvYy2Um5Nh8LBYpkd",
         "share": 100
       }
     ]
