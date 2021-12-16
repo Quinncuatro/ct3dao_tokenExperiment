@@ -359,11 +359,11 @@ const CandyMachine = ({ walletAddress }) => {
 
   const renderMintedItems = () => (
     <div className="gif-container">
-      <p className="sub-text">Minted Climbers 🧗</p>
+      <p className="sub-text">Minted CT3 Tokens</p>
       <div className="gif-grid">
         {mints.map((mint) => (
           <div className="gif-item" key={mint}>
-            <img src={mint} alt={`Minted Climber NFT ${mint}`} />
+            <img src={mint} alt={`Minted CT3 Token: ${mint}`} />
           </div>
         ))}
       </div>
